@@ -9,21 +9,21 @@ Made out of necessity and continuous frustration. Built with WinForms (C#).
     <img alt="Logo" src="DiscordAudioStream/resources/imgs/icon.svg" width="110">
 </p>
 <p align="center">
-    <a href="https://github.com/p-rivero/DiscordAudioStream/releases">
-        <img alt="Total downloads" src="https://img.shields.io/github/downloads/p-rivero/DiscordAudioStream/total?label=total%20downloads">
+    <a href="https://github.com/pol-rivero/DiscordAudioStream/releases">
+        <img alt="Total downloads" src="https://img.shields.io/github/downloads/pol-rivero/DiscordAudioStream/total?label=total%20downloads">
     </a>
-    <a href="https://github.com/p-rivero/DiscordAudioStream/releases">
-        <img alt="Downloads of latest release" src="https://img.shields.io/github/downloads/p-rivero/DiscordAudioStream/latest/total?label=downloads%20(latest%20release)">
+    <a href="https://github.com/pol-rivero/DiscordAudioStream/releases">
+        <img alt="Downloads of latest release" src="https://img.shields.io/github/downloads/pol-rivero/DiscordAudioStream/latest/total?label=downloads%20(latest%20release)">
     </a>
     <br>
-    <a href="https://github.com/p-rivero/DiscordAudioStream/issues">
-        <img alt="Issues" src="https://img.shields.io/github/issues/p-rivero/DiscordAudioStream">
+    <a href="https://github.com/pol-rivero/DiscordAudioStream/issues">
+        <img alt="Issues" src="https://img.shields.io/github/issues/pol-rivero/DiscordAudioStream">
     </a>
-    <a href="https://github.com/p-rivero/DiscordAudioStream/pulls">
-        <img alt="Pull requests" src="https://img.shields.io/github/issues-pr/p-rivero/DiscordAudioStream">
+    <a href="https://github.com/pol-rivero/DiscordAudioStream/pulls">
+        <img alt="Pull requests" src="https://img.shields.io/github/issues-pr/pol-rivero/DiscordAudioStream">
     </a>
-    <a href="https://github.com/p-rivero/DiscordAudioStream/blob/master/LICENSE">
-        <img alt="License" src="https://img.shields.io/github/license/p-rivero/DiscordAudioStream">
+    <a href="https://github.com/pol-rivero/DiscordAudioStream/blob/master/LICENSE">
+        <img alt="License" src="https://img.shields.io/github/license/pol-rivero/DiscordAudioStream">
     </a>
 </p>
 
@@ -59,7 +59,7 @@ Unfortunately, GPLv3 forces any derivative work to also be licensed under GPLv3,
 
 # How do I use it?
 
-First, download the program from the [GitHub releases page](https://github.com/p-rivero/DiscordAudioStream/releases). You should be able to execute it directly without installing anything.
+First, download the program from the [GitHub releases page](https://github.com/pol-rivero/DiscordAudioStream/releases). You should be able to execute it directly without installing anything.
 
 The following steps depend on what you want to do.
 

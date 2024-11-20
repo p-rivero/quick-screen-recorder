@@ -14,7 +14,7 @@ public record GitHubRelease(string tag_name, Uri html_url)
     public Version Version => Version.Parse(RemovePrefix(tag_name, TAG_PREFIX));
     public Uri DownloadUrl => html_url;
 
-    public static async Task<GitHubRelease> GetLatest(string author = "p-rivero", string repoName = "DiscordAudioStream")
+    public static async Task<GitHubRelease> GetLatest(string author = "pol-rivero", string repoName = "DiscordAudioStream")
     {
         try
         {

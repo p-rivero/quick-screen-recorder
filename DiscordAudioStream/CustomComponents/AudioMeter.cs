@@ -95,7 +95,7 @@ public class AudioMeter : NAudio.Gui.VolumeMeter
 
     protected override void OnPaint(PaintEventArgs pe)
     {
-        // Draw an audio meter, see https://github.com/p-rivero/DiscordAudioStream/issues/15
+        // Draw an audio meter, see https://github.com/pol-rivero/DiscordAudioStream/issues/15
 
         double db = 20.0 * Math.Log10(Amplitude);
         db = Math.Min(db, MaxDb);

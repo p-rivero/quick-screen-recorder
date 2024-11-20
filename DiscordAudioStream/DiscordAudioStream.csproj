@@ -18,9 +18,9 @@
     <Authors>DiscordAudioStream</Authors>
     <Product>Discord Audio Stream</Product>
     <Description>Utility for streaming the entire screen (or use OBS) with Discord... with audio!</Description>
-    <PackageProjectUrl>https://github.com/p-rivero/DiscordAudioStream</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/pol-rivero/DiscordAudioStream</PackageProjectUrl>
     <PackageIcon>icon-128.png</PackageIcon>
-    <RepositoryUrl>https://github.com/p-rivero/DiscordAudioStream</RepositoryUrl>
+    <RepositoryUrl>https://github.com/pol-rivero/DiscordAudioStream</RepositoryUrl>
     <NeutralLanguage>en</NeutralLanguage>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
   </PropertyGroup>

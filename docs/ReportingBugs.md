@@ -1,7 +1,7 @@
 # Reporting a bug or crash
 
 If the program crashes, it will attempt to generate a trace file called `DiscordAudioStream_stack_trace.txt`. This file will be located in the same folder as your executable (`DiscordAudioStream.exe`).
-Create a [new issue](https://github.com/p-rivero/DiscordAudioStream/issues/new) and make sure to attach your trace file to help me solve your crash more easily.
+Create a [new issue](https://github.com/pol-rivero/DiscordAudioStream/issues/new) and make sure to attach your trace file to help me solve your crash more easily.
 
 If the stack trace is not generated automatically, go to Settings [<img src="img/settings-light.png" align="top"></img>](#gh-light-mode-only)[<img src="img/settings-dark.png" align="top"></img>](#gh-dark-mode-only) > Debug and enable *Output log file*.
 Close and reopen the program for this change to take effect.

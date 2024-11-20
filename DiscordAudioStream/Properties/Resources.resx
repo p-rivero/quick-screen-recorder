@@ -125,14 +125,14 @@
 May increase CPU usage (and can make the window unresponsive in high frame rates).</value>
   </data>
   <data name="URL_UpdatesLink" xml:space="preserve">
-    <value>https://github.com/p-rivero/DiscordAudioStream/releases</value>
+    <value>https://github.com/pol-rivero/DiscordAudioStream/releases</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="white_speaker" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\imgs\light\white-speaker.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="URL_LicenseLink" xml:space="preserve">
-    <value>https://github.com/p-rivero/DiscordAudioStream/blob/master/LICENSE</value>
+    <value>https://github.com/pol-rivero/DiscordAudioStream/blob/master/LICENSE</value>
   </data>
   <data name="Tooltip_OutputLog" xml:space="preserve">
     <value>Log most actions taken inside the program to help find bugs and crashes.
@@ -158,7 +158,7 @@ App restart required.</value>
     <value>..\resources\imgs\resize.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="URL_AuthorLink" xml:space="preserve">
-    <value>https://github.com/p-rivero</value>
+    <value>https://github.com/pol-rivero</value>
   </data>
   <data name="white_mixer" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\resources\imgs\light\white-mixer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -167,10 +167,10 @@ App restart required.</value>
     <value>..\resources\imgs\light\white-record.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="URL_IssuesLink" xml:space="preserve">
-    <value>https://github.com/p-rivero/DiscordAudioStream/issues</value>
+    <value>https://github.com/pol-rivero/DiscordAudioStream/issues</value>
   </data>
   <data name="URL_ProjectLink" xml:space="preserve">
-    <value>https://github.com/p-rivero/DiscordAudioStream</value>
+    <value>https://github.com/pol-rivero/DiscordAudioStream</value>
   </data>
   <data name="URL_ScreenRecorderLink" xml:space="preserve">
     <value>https://github.com/ModuleArt/quick-screen-recorder</value>
@@ -199,7 +199,7 @@ This will trigger the Discord stream to end automatically.</value>
     <value>..\resources\imgs\lock.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="URL_CaptureMethodsInfoLink" xml:space="preserve">
-    <value>https://github.com/p-rivero/DiscordAudioStream/blob/master/docs/CaptureMethods.md</value>
+    <value>https://github.com/pol-rivero/DiscordAudioStream/blob/master/docs/CaptureMethods.md</value>
   </data>
   <data name="Tooltip_ShowAudioInputs" xml:space="preserve">
     <value>The Audio capture dropdown will also show audio input devices (microphones, capture cards). 

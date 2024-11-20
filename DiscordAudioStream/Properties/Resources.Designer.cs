@@ -252,7 +252,7 @@ namespace DiscordAudioStream.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to https://github.com/p-rivero.
+        ///   Looks up a localized string similar to https://github.com/pol-rivero.
         /// </summary>
         internal static string URL_AuthorLink {
             get {
@@ -261,7 +261,7 @@ namespace DiscordAudioStream.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to https://github.com/p-rivero/DiscordAudioStream/blob/master/docs/CaptureMethods.md.
+        ///   Looks up a localized string similar to https://github.com/pol-rivero/DiscordAudioStream/blob/master/docs/CaptureMethods.md.
         /// </summary>
         internal static string URL_CaptureMethodsInfoLink {
             get {
@@ -270,7 +270,7 @@ namespace DiscordAudioStream.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to https://github.com/p-rivero/DiscordAudioStream/issues.
+        ///   Looks up a localized string similar to https://github.com/pol-rivero/DiscordAudioStream/issues.
         /// </summary>
         internal static string URL_IssuesLink {
             get {
@@ -279,7 +279,7 @@ namespace DiscordAudioStream.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to https://github.com/p-rivero/DiscordAudioStream/blob/master/LICENSE.
+        ///   Looks up a localized string similar to https://github.com/pol-rivero/DiscordAudioStream/blob/master/LICENSE.
         /// </summary>
         internal static string URL_LicenseLink {
             get {
@@ -306,7 +306,7 @@ namespace DiscordAudioStream.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to https://github.com/p-rivero/DiscordAudioStream.
+        ///   Looks up a localized string similar to https://github.com/pol-rivero/DiscordAudioStream.
         /// </summary>
         internal static string URL_ProjectLink {
             get {
@@ -324,7 +324,7 @@ namespace DiscordAudioStream.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to https://github.com/p-rivero/DiscordAudioStream/releases.
+        ///   Looks up a localized string similar to https://github.com/pol-rivero/DiscordAudioStream/releases.
         /// </summary>
         internal static string URL_UpdatesLink {
             get {
